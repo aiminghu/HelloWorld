@@ -48,6 +48,13 @@ def readfile():
             print(eachLine)  # print语句会自动生成newline
             print(eachLine.strip())  # strip()用于移除字符串头尾指定的字符（默认为空格或换行符）或字符序列
         fobj.close()
+def openfile():
+    fname = input("输入要编辑的文件名字：")
+    with open(fname,'r+',encoding='utf-8') as f:
+        line = input("请输入要编辑的内容：")
+        f.write(line)
+
+
 if __name__ == '__main__':
     a = input('请输入你想执行的程序：1 or 2：')
     if int(a) == 1:
@@ -55,4 +62,4 @@ if __name__ == '__main__':
     elif int(a) == 2:
         readfile()
     else:
-        print('无此选项！')
+        openfile()

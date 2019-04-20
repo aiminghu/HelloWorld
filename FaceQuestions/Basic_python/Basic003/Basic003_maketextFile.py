@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @File  : Basic003_maketextFile.py
 # @Author: HAM
-# @File : Basic003_1
+# @File : Basic003
 'makeTextFile.py --create text file'
 """
 这个脚本提醒用户输入一个（尚不存在的）文件名，然后由用户输入该文件的每一行，最后将文本写入文件.

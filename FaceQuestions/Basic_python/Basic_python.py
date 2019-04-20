@@ -144,3 +144,62 @@ del语句能够直接释放资源
 记录器：logging,日志系统，五种级别（紧急、错误、警告、信息、调试）
 性能测试器：profile,hotshot,cProfile
 """
+
+
+"""
+4.python对象
+1、所有的python对象都拥有三个特性（身份，类型，值）
+    a.身份：每个对象都有一个唯一的身份来标识。id()可得到
+    b.类型：决定了对象可以保存什么样的值，进行什么样的操作，遵循什么样的规则。type()可知道
+    c.值：数据表示的数据项
+2、标准类型
+    a.数字（Integer整型，Long integer长整型，Floating point real number浮点型,Complex number复数型，Boolean布尔型）
+    b.字符串 String 
+    c.List 列表
+    d.Tuple 元祖
+    e.Dictionary 字典
+3、其他内建类型：
+    a.类型 type()
+    b.Null对象（None）  ps：每个对象天生具有布尔值，空对象、值为零的任何数字或者Null对象的None的布尔值都是false
+    c.文件 d.集合/固定集合 e.函数/方法 f.模块 g.类
+
+4、python 提供了 is / is not来测试变量是否指向同一个对象
+    not,and,or(逻辑非，与，或)
+    cmp(o1,o2) 比较o1,o2,根据比较结果返回整型,python3中用operator模块代替
+    str(o1) 转换成字符串类型
+    type(o1) 得到o1的数据类型
+    repr(o1) 转成字符串，一般可用eval()内建函数得到原来的对象
+5、类型工厂函数
+    dict(),bool(),set(),frozenset()
+    object(),classmethod()
+    super(),property(),file() .....
+
+6、存储模型：字典、元祖、列表=容器类型；数字、字符串=标量/原子类型
+7、更新模型：字典、列表 = 可变类型；数字、字符串、元祖=不可变类型
+8、访问模型：数字=直接访问；字符串、列表、元祖 = 顺序访问；字典 = 映射访问
+    
+"""
+# foo1 = foo2 = 4.3 #指向同一个
+# fo1 = 4.3
+# fo2 = fo1
+#
+# f1 = 4.4 #指向不同的
+# f2 = 2.2 + 2.2
+#
+# print(f1 is f2) #false,
+# print(fo1 is fo2)#true
+# print(type(str(f1)))
+#
+# a = 10
+# b = 10
+# c = 100
+# d = 100
+# e = 10.0
+# f = 10.0
+# print(a is b)
+# print(c is d)
+# print(e is f)
+
+"""
+5.数字 
+"""
