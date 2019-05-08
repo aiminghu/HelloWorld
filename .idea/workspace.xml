@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6fc34e0-fd1a-42c7-bc53-ad6b934fc9c6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/FaceQuestions/DataType/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceQuestions/DataType/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceQuestions/DataType/number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceQuestions/DataType/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceQuestions/DataType/string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceQuestions/DataType/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004/Basic004_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004/Basic004_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceQuestions/DataType/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceQuestions/DataType/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceQuestions/DataType/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceQuestions/DataType/string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceQuestions/dict_lx1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceQuestions/dict_lx1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +23,13 @@
     <SUITE FILE_PATH="coverage/Python_lx$lx110.coverage" NAME="lx110 Coverage Results" MODIFIED="1553847282765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_lx$Basic_python.coverage" NAME="Basic_python Coverage Results" MODIFIED="1555679279441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions/Basic_python" />
     <SUITE FILE_PATH="coverage/Python_lx$Basic004_1.coverage" NAME="Basic004_1 Coverage Results" MODIFIED="1555753193233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004" />
-    <SUITE FILE_PATH="coverage/Python_lx$string.coverage" NAME="string Coverage Results" MODIFIED="1555753789294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions/DataType" />
+    <SUITE FILE_PATH="coverage/Python_lx$string.coverage" NAME="string Coverage Results" MODIFIED="1556455614374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions/DataType" />
+    <SUITE FILE_PATH="coverage/Python_lx$app.coverage" NAME="app Coverage Results" MODIFIED="1557132762936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask" />
     <SUITE FILE_PATH="coverage/Python_lx$Basic003_1.coverage" NAME="Basic003_1 Coverage Results" MODIFIED="1555417234632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions" />
     <SUITE FILE_PATH="coverage/Python_lx$demo_1.coverage" NAME="demo_1 Coverage Results" MODIFIED="1554175555358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pyecharts" />
     <SUITE FILE_PATH="coverage/Python_lx$Basic003_readtestFile.coverage" NAME="Basic003_readtestFile Coverage Results" MODIFIED="1555420554338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic003_1" />
-    <SUITE FILE_PATH="coverage/Python_lx$dict_lx1.coverage" NAME="dict_lx1 Coverage Results" MODIFIED="1555295782792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions" />
+    <SUITE FILE_PATH="coverage/Python_lx$list.coverage" NAME="list Coverage Results" MODIFIED="1557231689145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions/DataType" />
+    <SUITE FILE_PATH="coverage/Python_lx$dict_lx1.coverage" NAME="dict_lx1 Coverage Results" MODIFIED="1557231905430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions" />
     <SUITE FILE_PATH="coverage/Python_lx$demo_2.coverage" NAME="demo_2 Coverage Results" MODIFIED="1554176127810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pyecharts" />
     <SUITE FILE_PATH="coverage/Python_lx$typechk.coverage" NAME="typechk Coverage Results" MODIFIED="1555677913851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004" />
     <SUITE FILE_PATH="coverage/Python_lx$Basic003_choice.coverage" NAME="Basic003_choice Coverage Results" MODIFIED="1555674142741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic003_1" />
@@ -39,69 +39,62 @@
       <file leaf-file-name="Basic_python.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic_python.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="176" column="35" lean-forward="true" selection-start-line="176" selection-start-column="35" selection-end-line="176" selection-end-column="35" />
+            <state relative-caret-position="2992">
+              <caret line="176" column="35" selection-start-line="176" selection-start-column="35" selection-end-line="176" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="typechk.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004/typechk.py">
+      <file leaf-file-name="list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Basic004_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004/Basic004_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="string.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="1972">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/number.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/list.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="dict_lx1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceQuestions/dict_lx1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="dictionary.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dictionary.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="tuple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/tuple.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="string.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4981">
+              <caret line="293" column="16" selection-start-line="293" selection-start-column="16" selection-end-line="293" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="set.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/set.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Basic003_1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic003/Basic003_1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -115,6 +108,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>右对齐</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -141,7 +139,6 @@
         <option value="$PROJECT_DIR$/base_python.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/forChange.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/forChange_01.py" />
-        <option value="$PROJECT_DIR$/FaceQuestions/dict_lx1.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/Basic_python.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/Basic003_1.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic003_1/Basic003_1.txt" />
@@ -156,12 +153,15 @@
         <option value="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic_python.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/DataType/str.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/DataType/number.py" />
-        <option value="$PROJECT_DIR$/FaceQuestions/DataType/list.py" />
-        <option value="$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/DataType/tuple.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/DataType/set.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004/Basic004_1.py" />
+        <option value="$PROJECT_DIR$/FaceQuestions/Basic_python/error.py" />
         <option value="$PROJECT_DIR$/FaceQuestions/DataType/string.py" />
+        <option value="$PROJECT_DIR$/flask/app.py" />
+        <option value="$PROJECT_DIR$/FaceQuestions/DataType/list.py" />
+        <option value="$PROJECT_DIR$/FaceQuestions/dict_lx1.py" />
+        <option value="$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py" />
       </list>
     </option>
   </component>
@@ -175,10 +175,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="364" />
-    <option name="y" value="11" />
-    <option name="width" value="879" />
-    <option name="height" value="672" />
+    <option name="x" value="339" />
+    <option name="y" value="19" />
+    <option name="width" value="939" />
+    <option name="height" value="692" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -186,6 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,26 +203,12 @@
               <item name="Python-lx" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-lx" type="462c0819:PsiDirectoryNode" />
               <item name="FaceQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic_python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-lx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-lx" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic004" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-lx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-lx" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="DataType" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +217,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -253,26 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.string">
-    <configuration name="Basic003_choice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-lx" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic003_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic003_1/Basic003_choice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.dict_lx1">
     <configuration name="Basic004_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-lx" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,7 +260,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Basic_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-lx" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,12 +268,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceQuestions/Basic_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dict_lx1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-lx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceQuestions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceQuestions/dict_lx1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-lx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceQuestions/DataType" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceQuestions/DataType/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,39 +336,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="typechk" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-lx" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004/typechk.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Basic003_choice" />
-      <item itemvalue="Python.Basic_python" />
-      <item itemvalue="Python.typechk" />
       <item itemvalue="Python.Basic004_1" />
       <item itemvalue="Python.string" />
+      <item itemvalue="Python.list" />
+      <item itemvalue="Python.dict_lx1" />
+      <item itemvalue="Python.app" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dict_lx1" />
+        <item itemvalue="Python.list" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.string" />
         <item itemvalue="Python.Basic004_1" />
-        <item itemvalue="Python.Basic_python" />
-        <item itemvalue="Python.typechk" />
-        <item itemvalue="Python.Basic003_choice" />
       </list>
     </recent_temporary>
   </component>
@@ -398,35 +385,65 @@
       <option name="project" value="LOCAL" />
       <updated>1555737768709</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6种基本数据类型">
+      <created>1555754046058</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555754046058</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="11" width="879" height="672" extended-state="0" />
+    <frame x="339" y="19" width="939" height="692" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50915754" side_tool="true" weight="0.3427835" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.25142208" side_tool="true" visible="true" weight="0.33574006" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.13366337" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3293718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4908425" visible="true" weight="0.37078652" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4977307" weight="0.35973597" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3028083" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32851985" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74857795" weight="0.33574006" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4977307" weight="0.35920578" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3686007" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4957102" weight="0.22648084" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39933994" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6750675" weight="0.3985375" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4957102" weight="0.22648084" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19213313" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7473525" visible="true" weight="0.3729373" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39933994" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4977307" weight="0.35973597" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.2526475" side_tool="true" visible="true" weight="0.3729373" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.13366337" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4957102" weight="0.22648084" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3293718" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -437,7 +454,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first note" />
     <MESSAGE value="核心编程第四章" />
-    <option name="LAST_COMMIT_MESSAGE" value="核心编程第四章" />
+    <MESSAGE value="6种基本数据类型" />
+    <option name="LAST_COMMIT_MESSAGE" value="6种基本数据类型" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -452,27 +470,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pyecharts/render.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5848">
-          <caret line="26" column="318786" selection-start-line="26" selection-start-column="318786" selection-end-line="26" selection-end-column="318786" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyecharts/demo_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python3.6/Lib/site-packages/lml/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FaceQuestions/dict_lx1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -690,13 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FaceQuestions/dict_lx1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic003_2.txt" />
     <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic003/Basic003_maketextFile.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -736,50 +726,88 @@
     <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic003/Basic003_1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/number.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/list.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/tuple.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/set.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="176" column="35" lean-forward="true" selection-start-line="176" selection-start-column="35" selection-end-line="176" selection-end-column="35" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/error.py" />
+    <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4981">
+          <caret line="293" column="16" selection-start-line="293" selection-start-column="16" selection-end-line="293" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/search_project_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceQuestions/dict_lx1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004/Basic004_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="-22">
           <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic004/typechk.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
+        <state relative-caret-position="284">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/string.py">
+    <entry file="file://$PROJECT_DIR$/FaceQuestions/Basic_python/Basic_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="2992">
+          <caret line="176" column="35" selection-start-line="176" selection-start-column="35" selection-end-line="176" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
