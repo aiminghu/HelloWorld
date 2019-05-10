@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6fc34e0-fd1a-42c7-bc53-ad6b934fc9c6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/flask/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FaceQuestions/DataType/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceQuestions/DataType/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FaceQuestions/DataType/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceQuestions/DataType/string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FaceQuestions/dict_lx1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceQuestions/dict_lx1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,8 +69,8 @@
       <file leaf-file-name="dictionary.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="203">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -175,8 +169,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="339" />
-    <option name="y" value="19" />
+    <option name="x" value="210" />
+    <option name="y" value="48" />
     <option name="width" value="939" />
     <option name="height" value="692" />
   </component>
@@ -185,31 +179,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python-lx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-lx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-lx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-lx" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceQuestions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-lx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-lx" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="DataType" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
@@ -392,17 +362,33 @@
       <option name="project" value="LOCAL" />
       <updated>1555754046058</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="列表">
+      <created>1557307047224</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557307047224</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="339" y="19" width="939" height="692" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.25142208" side_tool="true" visible="true" weight="0.33574006" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49943116" weight="0.32851985" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.480091" side_tool="true" visible="true" weight="0.35920578" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.13366337" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.51990896" visible="true" weight="0.35920578" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32851985" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74857795" weight="0.33574006" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4977307" weight="0.35920578" />
@@ -455,7 +441,8 @@
     <MESSAGE value="my first note" />
     <MESSAGE value="核心编程第四章" />
     <MESSAGE value="6种基本数据类型" />
-    <option name="LAST_COMMIT_MESSAGE" value="6种基本数据类型" />
+    <MESSAGE value="列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="列表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -806,8 +793,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FaceQuestions/DataType/dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="203">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
